@@ -1,0 +1,26 @@
+baseURL = 'https://diogoqueiroz.page/blog/'
+languageCode = 'en-us'
+title = 'Diogo Queiroz | Blog'
+theme = 'terminal'
+
+publishDir = '../html/blog/'
+
+[permalinks]
+  posts = "/:title/"
+
+[params]
+
+  env = 'production'
+  defaultTheme = 'dark'
+  disableThemeToggle = false
+
+  [params.homeInfoParams]
+    Title = 'Welcome to my blog'
+    Content = 'Tech articles based on my own projects'
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
