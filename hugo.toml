@@ -1,7 +1,7 @@
 baseURL = 'https://diogoqueiroz.page/blog/'
 languageCode = 'en-us'
 title = 'Diogo Queiroz | Blog'
-theme = 'terminal'
+theme = 'hugo-coder'
 
 publishDir = '../html/blog/'
 
