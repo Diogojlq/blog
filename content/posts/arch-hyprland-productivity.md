@@ -1,6 +1,6 @@
 ---
 title: "Arch, Hyprland, produtividade,..."
-date: 2025-01-21T20:00:00-03:00
+date: 2026-01-20T20:00:00-03:00
 draft: false
 tags: ["linux", "produtividade", "hyprland"]
 categories: ["tecnologia"]
