@@ -1,9 +1,9 @@
-baseURL = 'https://diogoqueiroz.page/blog/'
+baseURL = 'https://diogoqueiroz.page/'
 languageCode = 'en-us'
 title = 'Diogo Queiroz | Blog'
 theme = 'hugo-coder'
 
-publishDir = '../html/blog/'
+publishDir = '../html/'
 
 [permalinks]
   posts = "/:title/"
